@@ -7,10 +7,7 @@
     the clues on a window created with Tkinter library.
     
     Created by    
-        Şimal Hilal Meriç (CONTACT) 21703607
-        Ada Dilek Rezaki 21702354
-        Duru Değimli 21704032
-        Bengisu Akyürek 21702422
+        Bengisu Akyürek
 
     @date 25 October 2020
 """
