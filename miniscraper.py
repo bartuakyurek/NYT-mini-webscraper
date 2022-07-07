@@ -7,7 +7,7 @@
     the clues on a window created with Tkinter library.
     
     Created by    
-        Bengisu Akyürek
+        Bartu Akyürek
 
     @date 25 October 2020
 """
